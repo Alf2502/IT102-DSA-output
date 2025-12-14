@@ -1,4 +1,5 @@
-package output;
+package Output;
+
 public class Data_Structure_Arrays {
     public static void main(String[] args) {
         // Declare and initialize an array
